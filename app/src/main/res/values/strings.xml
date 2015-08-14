@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Wildscreen Arkive</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Muzei -->
+    <string name="wildscreen_arkive">Wildscreen Arkive</string>
+    <string name="wildscreen_arkive_description">Fascinating endangered species from around the world</string>
+</resources>
